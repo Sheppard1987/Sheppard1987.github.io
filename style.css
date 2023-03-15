@@ -29,7 +29,7 @@ main {
 
 section {
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 0;
     margin-left: 0;
     margin-right: 0;
     padding-left: 50px;
@@ -40,10 +40,10 @@ section {
 
 section h2 {
     padding: 0;
-    text-align: left;
+    text-align: center;
     border: none;
-}
 
+}
 li {
     margin-bottom: 10px;
 }
